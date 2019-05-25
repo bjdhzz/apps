@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/sdoctor83/apps/master/pms_alpha_1_0.ipa</string>
+					<string>https://raw.githubusercontent.com/bjdhzz/apps/master/pms_alpha_1_0.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/sdoctor83/apps/master/logo_512.png</string>
+					<string>https://raw.githubusercontent.com/bjdhzz/apps/master/logo_512.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/sdoctor83/apps/master/logo_57.png</string>
+					<string>https://raw.githubusercontent.com/bjdhzz/apps/master/logo_57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
